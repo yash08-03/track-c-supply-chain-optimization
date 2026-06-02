@@ -1,0 +1,6 @@
+Scenario,Profit,Change_%
+Base,5908988.18,0
+Demand_Up_20,6972606.052399999,18
+Demand_Down_20,4845370.307599999,-18
+Capacity_Up_10,6204437.589,5
+Capacity_Down_10,5495359.0074000005,-7

@@ -1,0 +1,5 @@
+Constraint,Business Interpretation
+Warehouse Capacity,Increasing capacity allows additional profitable inventory allocation
+Inventory Availability,Additional inventory directly increases fulfillment capability
+Service Level Constraint,Tighter service targets increase allocation requirements and reduce flexibility
+Transportation Cost Constraint,Higher transportation cost shifts inventory toward lower-cost branches

@@ -1,0 +1,4 @@
+Metric,Baseline,Optimized,Improvement
+Profit,5400000,5908988,9.43%
+Service Level,92%,98%,6.5%
+Stockouts,145,82,-43.4%
