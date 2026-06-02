@@ -1,0 +1,9 @@
+Branch_ID,Region,Warehouse_Capacity,Transport_Cost_Index
+BLR01,South,25000,1.0
+HYD01,South,22000,1.05
+CHN01,South,21000,1.08
+PUN01,West,23000,1.02
+MUM01,West,28000,1.2
+DEL01,North,30000,1.15
+KOL01,East,20000,1.12
+AMD01,West,19000,0.98
